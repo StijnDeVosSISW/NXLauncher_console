@@ -6,7 +6,8 @@ namespace NXLauncher_console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(
+                "NX Launcher");
         }
     }
 }
